@@ -1,0 +1,5 @@
+{
+  "name": "Gerador Preditivo de Odds para Apostas",
+  "description": "Uma ferramenta avançada que utiliza um Grande Modelo de Linguagem (LLM) para gerar odds de apostas esportivas para jogos de futebol. Utiliza uma matriz detalhada de features estatísticas, incluindo métricas como xG e ratings ELO, para fornecer sugestões de apostas baseadas em dados com uma análise transparente 'Thread of Thought'.",
+  "requestFramePermissions": []
+}
